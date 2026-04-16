@@ -53,8 +53,8 @@ This project analyzes the relationship between market sentiment (Fear vs Greed) 
 
 3. Aggressive Trading Increases Risk
 - Larger trade sizes and higher exposure lead to:
---Higher PnL volatility
---Less consistent performance
+- - Higher PnL volatility
+- - Less consistent performance
 -Risk is amplified during Fear periods
 
 ---
